@@ -2608,116 +2608,10 @@
       </Thread>
     </Designation>
   </ThreadSize>
+
+  <!-- M95 Camera Filter size for my variable ND FIlter https://amesweb.info/Screws/metric-thread-dimensions-calculator.aspx -->
   <ThreadSize>
     <Size>95.0</Size>
-    <Designation>
-      <ThreadDesignation>M95x6</ThreadDesignation>
-      <CTD>M95x6</CTD>
-      <Pitch>6.0</Pitch>
-      <Thread>
-        <Gender>external</Gender>
-        <Class>6g</Class>
-        <MajorDia>94.62</MajorDia>
-        <PitchDia>90.8729</PitchDia>
-        <MinorDia>87.7258</MinorDia>
-      </Thread>
-      <Thread>
-        <Gender>internal</Gender>
-        <Class>6H</Class>
-        <MajorDia>95.633</MajorDia>
-        <PitchDia>91.3029</PitchDia>
-        <MinorDia>88.9048</MinorDia>
-        <TapDrill>89.0</TapDrill>
-      </Thread>
-      <Thread>
-        <Gender>external</Gender>
-        <Class>4g6g</Class>
-        <MajorDia>94.62</MajorDia>
-        <PitchDia>90.9279</PitchDia>
-        <MinorDia>87.7808</MinorDia>
-      </Thread>
-    </Designation>
-    <Designation>
-      <ThreadDesignation>M95x4</ThreadDesignation>
-      <CTD>M95x4</CTD>
-      <Pitch>4.0</Pitch>
-      <Thread>
-        <Gender>external</Gender>
-        <Class>6g</Class>
-        <MajorDia>94.7025</MajorDia>
-        <PitchDia>92.2169</PitchDia>
-        <MinorDia>90.1188</MinorDia>
-      </Thread>
-      <Thread>
-        <Gender>internal</Gender>
-        <Class>6H</Class>
-        <MajorDia>95.4562</MajorDia>
-        <PitchDia>92.5694</PitchDia>
-        <MinorDia>90.9699</MinorDia>
-        <TapDrill>91.0</TapDrill>
-      </Thread>
-      <Thread>
-        <Gender>external</Gender>
-        <Class>4g6g</Class>
-        <MajorDia>94.7025</MajorDia>
-        <PitchDia>92.2619</PitchDia>
-        <MinorDia>90.1638</MinorDia>
-      </Thread>
-    </Designation>
-    <Designation>
-      <ThreadDesignation>M95x3</ThreadDesignation>
-      <CTD>M95x3</CTD>
-      <Pitch>3.0</Pitch>
-      <Thread>
-        <Gender>external</Gender>
-        <Class>6g</Class>
-        <MajorDia>94.7645</MajorDia>
-        <PitchDia>92.8914</PitchDia>
-        <MinorDia>91.3179</MinorDia>
-      </Thread>
-      <Thread>
-        <Gender>internal</Gender>
-        <Class>6H</Class>
-        <MajorDia>95.3665</MajorDia>
-        <PitchDia>93.2014</PitchDia>
-        <MinorDia>92.0024</MinorDia>
-        <TapDrill>92.0</TapDrill>
-      </Thread>
-      <Thread>
-        <Gender>external</Gender>
-        <Class>4g6g</Class>
-        <MajorDia>94.7645</MajorDia>
-        <PitchDia>92.9334</PitchDia>
-        <MinorDia>91.3599</MinorDia>
-      </Thread>
-    </Designation>
-    <Designation>
-      <ThreadDesignation>M95x2</ThreadDesignation>
-      <CTD>M95x2</CTD>
-      <Pitch>2.0</Pitch>
-      <Thread>
-        <Gender>external</Gender>
-        <Class>6g</Class>
-        <MajorDia>94.822</MajorDia>
-        <PitchDia>93.568</PitchDia>
-        <MinorDia>92.519</MinorDia>
-      </Thread>
-      <Thread>
-        <Gender>internal</Gender>
-        <Class>6H</Class>
-        <MajorDia>95.2695</MajorDia>
-        <PitchDia>93.826</PitchDia>
-        <MinorDia>93.0225</MinorDia>
-        <TapDrill>93.0</TapDrill>
-      </Thread>
-      <Thread>
-        <Gender>external</Gender>
-        <Class>4g6g</Class>
-        <MajorDia>94.822</MajorDia>
-        <PitchDia>93.604</PitchDia>
-        <MinorDia>92.555</MinorDia>
-      </Thread>
-    </Designation>
     <Designation>
       <ThreadDesignation>M95x1.5</ThreadDesignation>
       <CTD>M95x1.5</CTD>
@@ -2745,6 +2639,36 @@
         <MinorDia>93.1509</MinorDia>
       </Thread>
     </Designation>
+
+ <Designation>
+      <ThreadDesignation>M95x1.0</ThreadDesignation>
+      <CTD>M95x1.0</CTD>
+      <Pitch>1.0</Pitch>
+      <Thread>
+        <Gender>external</Gender>
+        <Class>6g</Class>
+        <MajorDia>94.794</MajorDia>
+        <PitchDia>94.183</PitchDia>
+        <MinorDia>93.567</MinorDia>
+      </Thread>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>6H</Class>
+        <MajorDia>95.000</MajorDia>
+        <PitchDia>94.350</PitchDia>
+        <MinorDia>93.917</MinorDia>
+        <TapDrill>93.5</TapDrill>
+      </Thread>
+      <Thread>
+        <Gender>external</Gender>
+        <Class>4g6g</Class>
+        <MajorDia>94.974</MajorDia>
+        <PitchDia>94.324</PitchDia>
+        <MinorDia>93.882</MinorDia>
+      </Thread>
+    </Designation>
+
+
       <Designation>
       <ThreadDesignation>M95x0.75</ThreadDesignation>
       <CTD>M95x0.75</CTD>
@@ -2773,6 +2697,41 @@
       </Thread>
     </Designation>
   </ThreadSize>
+<!-- M95 Camera Filter size for my variable ND FIlter END-->
+
+<!-- M95.5 Camera Filter size for my variable ND FIlter https://amesweb.info/Screws/metric-thread-dimensions-calculator.aspx -->
+  <ThreadSize>
+    <Size>95.5</Size>
+    <Designation>
+      <ThreadDesignation>M95.5x0.75</ThreadDesignation>
+      <CTD>M95.5x0.75</CTD>
+      <Pitch>0.75</Pitch>
+      <Thread>
+        <Gender>external</Gender>
+        <Class>6g</Class>
+        <MajorDia>95.338</MajorDia>
+        <PitchDia>94.864</PitchDia>
+        <MinorDia>94.402</MinorDia>
+      </Thread>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>6H</Class>
+        <MajorDia>95.500</MajorDia>
+        <PitchDia>95.013</PitchDia>
+        <MinorDia>94.688</MinorDia>
+        <TapDrill>94.25</TapDrill>
+      </Thread>
+      <Thread>
+        <Gender>external</Gender>
+        <Class>4g6g</Class>
+        <MajorDia>95.478</MajorDia>
+        <PitchDia>94.991</PitchDia>
+        <MinorDia>94.662</MinorDia>
+      </Thread>
+    </Designation>
+  </ThreadSize>
+<!-- M95.5 Camera Filter size for my variable ND FIlter END-->
+
   <ThreadSize>
     <Size>100.0</Size>
     <Designation>
@@ -2912,63 +2871,45 @@
     </Designation>
   </ThreadSize>
 
+<!-- M101.5 Camera Filter size for 3d print wide angle adapterhttps://amesweb.info/Screws/metric-thread-dimensions-calculator.aspx -->
+  <ThreadSize>
+    <Size>101.5</Size>
+    
 
+    <Designation>
+      <ThreadDesignation>M101.5x0.75</ThreadDesignation>
+      <CTD>M101.5x0.75</CTD>
+      <Pitch>0.75</Pitch>
+      <Thread>
+        <Gender>external</Gender>
+        <Class>6g</Class>
+        <MajorDia>101.338</MajorDia>
+        <PitchDia>100.864</PitchDia>
+        <MinorDia>100.402</MinorDia>
+      </Thread>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>6H</Class>
+        <MajorDia>101.480</MajorDia>
+        <PitchDia>101.013</PitchDia>
+        <MinorDia>100.688</MinorDia>
+        <TapDrill>100.4</TapDrill>
+      </Thread>
+      <Thread>
+        <Gender>external</Gender>
+        <Class>4g6g</Class>
+        <MajorDia>101.478</MajorDia>
+        <PitchDia>100.991</PitchDia>
+        <MinorDia>100.662</MinorDia>
+      </Thread>
+    </Designation>
+  </ThreadSize>
+<!--  M101.5 Camera Filter size End -->
+
+
+<!-- M102 Camera Filter size https://amesweb.info/Screws/metric-thread-dimensions-calculator.aspx -->
   <ThreadSize>
     <Size>102.0</Size>
-    <Designation>
-      <ThreadDesignation>M102x3</ThreadDesignation>
-      <CTD>M102x3</CTD>
-      <Pitch>3.0</Pitch>
-      <Thread>
-        <Gender>external</Gender>
-        <Class>6g</Class>
-        <MajorDia>99.7645</MajorDia>
-        <PitchDia>97.8914</PitchDia>
-        <MinorDia>96.3179</MinorDia>
-      </Thread>
-      <Thread>
-        <Gender>internal</Gender>
-        <Class>6H</Class>
-        <MajorDia>100.3665</MajorDia>
-        <PitchDia>98.2014</PitchDia>
-        <MinorDia>97.0024</MinorDia>
-        <TapDrill>97.0</TapDrill>
-      </Thread>
-      <Thread>
-        <Gender>external</Gender>
-        <Class>4g6g</Class>
-        <MajorDia>99.7645</MajorDia>
-        <PitchDia>97.9334</PitchDia>
-        <MinorDia>96.3599</MinorDia>
-      </Thread>
-    </Designation>
-    <Designation>
-      <ThreadDesignation>M102x2</ThreadDesignation>
-      <CTD>M102x2</CTD>
-      <Pitch>2.0</Pitch>
-      <Thread>
-        <Gender>external</Gender>
-        <Class>6g</Class>
-        <MajorDia>99.822</MajorDia>
-        <PitchDia>98.568</PitchDia>
-        <MinorDia>97.519</MinorDia>
-      </Thread>
-      <Thread>
-        <Gender>internal</Gender>
-        <Class>6H</Class>
-        <MajorDia>100.2695</MajorDia>
-        <PitchDia>98.826</PitchDia>
-        <MinorDia>98.0225</MinorDia>
-        <TapDrill>98.0</TapDrill>
-      </Thread>
-      <Thread>
-        <Gender>external</Gender>
-        <Class>4g6g</Class>
-        <MajorDia>99.822</MajorDia>
-        <PitchDia>98.604</PitchDia>
-        <MinorDia>97.555</MinorDia>
-      </Thread>
-    </Designation>
     <Designation>
       <ThreadDesignation>M102x1.5</ThreadDesignation>
       <CTD>M102x1.5</CTD>
@@ -2976,27 +2917,55 @@
       <Thread>
         <Gender>external</Gender>
         <Class>6g</Class>
-        <MajorDia>99.85</MajorDia>
-        <PitchDia>98.9037</PitchDia>
-        <MinorDia>98.1169</MinorDia>
+        <MajorDia>101.732</MajorDia>
+        <PitchDia>100.826</PitchDia>
+        <MinorDia>99.902</MinorDia>
       </Thread>
       <Thread>
         <Gender>internal</Gender>
         <Class>6H</Class>
-        <MajorDia>100.2263</MajorDia>
-        <PitchDia>99.1437</PitchDia>
-        <MinorDia>98.5262</MinorDia>
-        <TapDrill>98.5</TapDrill>
+        <MajorDia>102.000</MajorDia>
+        <PitchDia>101.026</PitchDia>
+        <MinorDia>100.376</MinorDia>
+        <TapDrill>99.7</TapDrill>
       </Thread>
       <Thread>
         <Gender>external</Gender>
         <Class>4g6g</Class>
-        <MajorDia>99.85</MajorDia>
-        <PitchDia>98.9377</PitchDia>
-        <MinorDia>98.1509</MinorDia>
+        <MajorDia>101.968</MajorDia>
+        <PitchDia>100.994</PitchDia>
+        <MinorDia>100.319</MinorDia>
       </Thread>
     </Designation>
-<!-- M102 Camera Filter size https://amesweb.info/Screws/metric-thread-dimensions-calculator.aspx -->
+
+    <Designation>
+      <ThreadDesignation>M102x1.0</ThreadDesignation>
+      <CTD>M102x1.0</CTD>
+      <Pitch>1.0</Pitch>
+      <Thread>
+        <Gender>external</Gender>
+        <Class>6g</Class>
+        <MajorDia>101.794</MajorDia>
+        <PitchDia>101.182</PitchDia>
+        <MinorDia>100.566</MinorDia>
+      </Thread>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>6H</Class>
+        <MajorDia>101.920</MajorDia>
+        <PitchDia>101.350</PitchDia>
+        <MinorDia>100.917</MinorDia>
+        <TapDrill>99.7</TapDrill>
+      </Thread>
+      <Thread>
+        <Gender>external</Gender>
+        <Class>4g6g</Class>
+        <MajorDia>101.974</MajorDia>
+        <PitchDia>101.324</PitchDia>
+        <MinorDia>100.882</MinorDia>
+      </Thread>
+    </Designation>
+
     <Designation>
       <ThreadDesignation>M102x0.75</ThreadDesignation>
       <CTD>M102x0.75</CTD>
@@ -3024,11 +2993,8 @@
         <MinorDia>101.162</MinorDia>
       </Thread>
     </Designation>
-<!--  M102 Camera Filter size End -->
-
   </ThreadSize>
-
-
+<!--  M102 Camera Filter size End -->
 
 
   <ThreadSize>
