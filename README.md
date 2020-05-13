@@ -15,6 +15,8 @@ I have zero knowledge and am a beginner, talk to a proper local machinist. Altho
 Based on thread calculator from https://amesweb.info/Screws/metric-thread-dimensions-calculator.aspx
 or http://theoreticalmachinist.com/Threads-MetricMProfile.aspx
 
+I cross checked with both calcualtors and they both give different tolerances for the exact same input and both have values that are different to ones found already in Fusion 360 for same sizes.
+
 common thread sizes https://en.wikipedia.org/wiki/Photographic_filter#Threaded_round_filters
 
 how to from Autodesk https://knowledge.autodesk.com/support/fusion-360/troubleshooting/caas/sfdcarticles/sfdcarticles/Custom-Threads-in-Fusion-360.html
