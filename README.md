@@ -1,6 +1,16 @@
 # Fusion-360-Lens-FIlter-Theads
 List of common camera lens front filter metric threads missing from Autodesk Fusion 360
-Usually they have either 0.75mm pitch or 1.0mm pitch threads
+Usually they have either 0.75mm pitch or 1.0mm pitch threads.
+
+Prototyping only. Use at own risk.
+
+I am not sure what the Pitch and Location Tolerances numbers are for Filter Threads they come in 6g 6H 4g6g and many many others. I used the most standard ones https://www.accu.co.uk/en/p/134-iso-metric-thread-tolerances or https://www.engineersedge.com/hardware/metric-external-thread-sizes1.htm
+
+
+This file is meant for an example or a starter file. I could be wrong so check first you may get cross threading or major camera lens thread damage if you use this file for metal machining.  I am using 3d PLA filament to print these so the threads are soft and don't damage anything.
+
+I have zero knowledge and am a beginner, talk to a proper local machinist. Although they will most likely not deal with such small items unfortunately.
+
 
 Based on thread calculator from https://amesweb.info/Screws/metric-thread-dimensions-calculator.aspx
 or http://theoreticalmachinist.com/Threads-MetricMProfile.aspx
