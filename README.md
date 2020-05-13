@@ -1,5 +1,6 @@
 # Fusion-360-Lens-FIlter-Theads
-List of common camera metric threads missing from Autodesk Fusion 360
+List of common camera lens front filter metric threads missing from Autodesk Fusion 360
+Usually they have either 0.75mm pitch or 1.0mm pitch threads
 
 Based on thread calculator from https://amesweb.info/Screws/metric-thread-dimensions-calculator.aspx
 or http://theoreticalmachinist.com/Threads-MetricMProfile.aspx
