@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <!-- 
     Camera Filter Thread Sizes - for use with Fusion 360 Filter threads
-    - version 1.4 - corrected 6H tolerances added more room to them (too tight before) and 40.5mm and 105 were not done correctly.
+    - version 1.5 - corrected 95mm 0.75 pitch error and added 27mm.
 
     Changelog:
+    - version 1.4 - corrected 6H tolerances added more room to them (too tight before) and 40.5mm and 105 were not done correctly.
     - version 1.3 - added most common filter threads
     
     - https://amesweb.info/Screws/metric-thread-dimensions-calculator.aspx or http://theoreticalmachinist.com/Threads-MetricMProfile.aspx. 
@@ -17,6 +18,68 @@
   <Angle>60</Angle>
   <SortOrder>3</SortOrder>
 
+
+<!-- 27mm Camera Filter size -->
+  <ThreadSize>
+    <Size>27</Size>
+       <Designation>
+      <ThreadDesignation>M27x0.75</ThreadDesignation>
+      <CTD>M27.5x0.75</CTD>
+      <Pitch>0.75</Pitch>
+      <Thread>
+        <Gender>external</Gender>
+        <Class>6g</Class>
+        <MajorDia>26.838</MajorDia>
+        <PitchDia>26.379</PitchDia>
+        <MinorDia>25.917</MinorDia>
+      </Thread>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>6H</Class>
+        <MajorDia>27.100</MajorDia>
+        <PitchDia>26.513</PitchDia>
+        <MinorDia>26.188</MinorDia>
+        <TapDrill>25.0</TapDrill>
+      </Thread>
+      <Thread>
+        <Gender>external</Gender>
+        <Class>4g6g</Class>
+        <MajorDia>26.838</MajorDia>
+        <PitchDia>26.421</PitchDia>
+        <MinorDia>25.959</MinorDia>
+      </Thread>
+    </Designation>
+      <Designation>
+      <ThreadDesignation>M27x0.5</ThreadDesignation>
+      <CTD>M27x0.5</CTD>
+      <Pitch>0.5</Pitch>
+      <Thread>
+        <Gender>external</Gender>
+        <Class>6g</Class>
+        <MajorDia>26.874</MajorDia>
+        <PitchDia>26.560</PitchDia>
+        <MinorDia>26.252</MinorDia>
+      </Thread>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>6H</Class>
+        <MajorDia>27.030</MajorDia>
+        <PitchDia>26.675</PitchDia>
+        <MinorDia>26.459</MinorDia>
+        <TapDrill>25.0</TapDrill>
+      </Thread>
+      <Thread>
+        <Gender>external</Gender>
+        <Class>4g6g</Class>
+        <MajorDia>26.874</MajorDia>
+        <PitchDia>26.595</PitchDia>
+        <MinorDia>26.287</MinorDia>
+      </Thread>
+    </Designation>
+  </ThreadSize>
+
+
+<!-- M30.5 Camera Filter size -->
   <ThreadSize>
     <Size>30.5</Size>
        <Designation>
@@ -1460,24 +1523,24 @@
       <Thread>
         <Gender>external</Gender>
         <Class>6g</Class>
-        <MajorDia>94.978</MajorDia>
-        <PitchDia>94.491</PitchDia>
-        <MinorDia>94.162</MinorDia>
+        <MajorDia>94.838</MajorDia>
+        <PitchDia>94.364</PitchDia>
+        <MinorDia>93.902</MinorDia>
       </Thread>
       <Thread>
         <Gender>internal</Gender>
         <Class>6H</Class>
         <MajorDia>95.050</MajorDia>
-        <PitchDia>94.680</PitchDia>
-        <MinorDia>94.378</MinorDia>
+        <PitchDia>94.513</PitchDia>
+        <MinorDia>94.188</MinorDia>
         <TapDrill>94.25</TapDrill>
       </Thread>
       <Thread>
         <Gender>external</Gender>
         <Class>4g6g</Class>
-        <MajorDia>94.85</MajorDia>
-        <PitchDia>93.9377</PitchDia>
-        <MinorDia>93.1509</MinorDia>
+        <MajorDia>94.838</MajorDia>
+        <PitchDia>94.411</PitchDia>
+        <MinorDia>93.949</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
