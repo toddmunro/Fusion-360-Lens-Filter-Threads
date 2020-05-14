@@ -23,5 +23,3 @@ how to from Autodesk https://knowledge.autodesk.com/support/fusion-360/troublesh
 
 Video of making a lens cap
 https://youtu.be/wanx86HVGwI
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wanx86HVGwI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
